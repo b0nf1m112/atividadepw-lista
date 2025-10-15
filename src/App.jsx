@@ -9,7 +9,7 @@ function App() {
       <div className='bloco'>
         <div className='content'>
           <h1>Renderização de Lista</h1>
-          <h2>Melhores Cantores</h2>
+          <h2>Melhores Jogos</h2>
           <Lista itens={meusItens} />
           <Lista itens={[]} />
         </div>
